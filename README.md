@@ -8,4 +8,4 @@ In order to run the backend server on your machine, you will want to setup 'npm'
 
 Once you have them installed, run 'npm install' in your terminal to install the dependencies which are listed in the package.json file for the express-server. This will allow you to now run the back-end server. In order to start the server, make sure you are in the 'express-server' folder. Then, run the command 'mongod' to run the mongoDB server. In another terminal, run 'npm start' to connect with the mongoDB server.
 
-This should setup the backend server on your machine.
+This should setup the backend server on your machine. Since the server is running on localhost:5000, that's the address you will need to type in in order to see any data stored in the server.
